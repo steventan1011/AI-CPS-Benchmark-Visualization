@@ -22,3 +22,71 @@ To install and run the project, follow these steps:
 
 Overall, this project serves as a foundation for further research and development in the field of AI-CPS visualization. The project demonstrates the importance of visualizing these complex systems to improve their transparency, accountability, and decision-making. The frontend, developed using Vue.js, provides an easy-to-use interface, while the backend, developed using Spring Boot, performs data retrieval and analysis.
 
+## Appendix
+
+Bellow are some demo screens for the visualization UI.
+
+- The dashboard UI
+
+  - Home page
+
+    ![bcf717e310475f03486e9706779edf7](https://raw.githubusercontent.com/steventan1011/pictures/master/img/bcf717e310475f03486e9706779edf7.png)
+
+  - AFC Intro
+
+    ![8857dd0e72dc488f3e9d962ccbc1ecc](https://raw.githubusercontent.com/steventan1011/pictures/master/img/8857dd0e72dc488f3e9d962ccbc1ecc.png)
+
+  - Radar Chart for the performance comparison on systems with traditional and DRL controllers on AFC
+
+    ![4efa4f89c4997444de92049dc0ac4f3](https://raw.githubusercontent.com/steventan1011/pictures/master/img/4efa4f89c4997444de92049dc0ac4f3.png)
+
+  - Radar Chart for the performance comparison on systems with hybrid controllers on AFC
+
+    ![b88540c4ffdb40744ee6185a62862e9](https://raw.githubusercontent.com/steventan1011/pictures/master/img/b88540c4ffdb40744ee6185a62862e9.png)
+
+  - Detail Data for AFC
+
+    ![ce6529ebb8442cd94c8aa33ad457e6a](https://raw.githubusercontent.com/steventan1011/pictures/master/img/ce6529ebb8442cd94c8aa33ad457e6a.png)
+
+  - The window for checking paddle angle and engine speed at a specific timestamp
+
+    ![8124ed9229d6691f36ceca0ca3dcc8e](https://raw.githubusercontent.com/steventan1011/pictures/master/img/8124ed9229d6691f36ceca0ca3dcc8e.png)
+
+- Friendly design for different usage environments: 
+
+  - Text font adjusting
+
+    ![85eee0fa6e840869e3d7425b11410e9](https://raw.githubusercontent.com/steventan1011/pictures/master/img/85eee0fa6e840869e3d7425b11410e9.png)
+
+  - Message
+
+    ![4b3881541328653c643d11dfc52a3ad](https://raw.githubusercontent.com/steventan1011/pictures/master/img/4b3881541328653c643d11dfc52a3ad.png)
+
+  - Account management
+
+    ![85eee0fa6e840869e3d7425b11410e9](C:\Users\steve\Desktop\85eee0fa6e840869e3d7425b11410e9.png)
+
+  - Theme Configuring
+
+    ![03f827a23d8b9408dbcf63e031d009b](https://raw.githubusercontent.com/steventan1011/pictures/master/img/03f827a23d8b9408dbcf63e031d009b.png)
+
+    - Dark Theme
+
+      ![77400e8d5e7658e4f3d2263ac007c5b](https://raw.githubusercontent.com/steventan1011/pictures/master/img/77400e8d5e7658e4f3d2263ac007c5b.png)
+
+    - Gray Theme
+
+      ![d4faebd1ff695a92be3d4bb49416f1a](https://raw.githubusercontent.com/steventan1011/pictures/master/img/77400e8d5e7658e4f3d2263ac007c5b.png)
+
+    - Contrast Theme
+
+      ![cdd506027133a832e903a15740aa4ae](https://raw.githubusercontent.com/steventan1011/pictures/master/img/cdd506027133a832e903a15740aa4ae.png)
+
+
+
+
+
+
+
+
+

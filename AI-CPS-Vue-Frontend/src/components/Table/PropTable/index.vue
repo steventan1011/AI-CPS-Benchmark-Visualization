@@ -108,7 +108,7 @@
     },
   })
 
-  console.log(2)
+  console.log(1)
   const currentPage1 = ref(1)
   // 收缩展开
   const isExpand = ref(false)
