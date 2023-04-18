@@ -66,7 +66,7 @@ Bellow are some demo screens for the visualization UI.
 
   - Account management
 
-    ![85eee0fa6e840869e3d7425b11410e9](C:\Users\steve\Desktop\85eee0fa6e840869e3d7425b11410e9.png)
+    ![b2375b2e43f2f872e90688e49c9ee29](https://raw.githubusercontent.com/steventan1011/pictures/master/img/b2375b2e43f2f872e90688e49c9ee29.png)
 
   - Theme Configuring
 
