@@ -32,9 +32,11 @@ Bellow are some demo screens for the visualization UI.
 
     ![bcf717e310475f03486e9706779edf7](https://raw.githubusercontent.com/steventan1011/pictures/master/img/bcf717e310475f03486e9706779edf7.png)
 
-  - AFC Intro
+  - AFC Intro (in a style with a Chatbot)
 
     ![8857dd0e72dc488f3e9d962ccbc1ecc](https://raw.githubusercontent.com/steventan1011/pictures/master/img/8857dd0e72dc488f3e9d962ccbc1ecc.png)
+
+    ![bfa4bf0479a83ad2b9f1b0dbc76d07d](https://raw.githubusercontent.com/steventan1011/pictures/master/img/bfa4bf0479a83ad2b9f1b0dbc76d07d.png)
 
   - Radar Chart for the performance comparison on systems with traditional and DRL controllers on AFC
 
