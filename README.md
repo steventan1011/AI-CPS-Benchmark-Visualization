@@ -14,9 +14,9 @@ The backend of the project is developed using Spring Boot, a popular Java-based 
 To install and run the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies for the frontend and backend using npm and Maven, respectively.
-3. Start the backend server using the command `mvn spring-boot:run`.
-4. Start the frontend server using the command `npm run dev`. (You may need run `npm install` first.)
+2. Install the required dependencies for the frontend and backend using `npm` and `Maven`, respectively.
+3. Start the backend server using the command `mvn spring-boot:run`. The port is 8080.
+4. Start the frontend server using the command `npm run dev`. (You may need run `npm install` first.) The port is 8081.
 
 ## Conclusion
 
