@@ -76,7 +76,7 @@ Bellow are some demo screens for the visualization UI.
 
     - Gray Theme
 
-      ![d4faebd1ff695a92be3d4bb49416f1a](https://raw.githubusercontent.com/steventan1011/pictures/master/img/77400e8d5e7658e4f3d2263ac007c5b.png)
+      ![d4faebd1ff695a92be3d4bb49416f1a](https://raw.githubusercontent.com/steventan1011/pictures/master/img/d4faebd1ff695a92be3d4bb49416f1a.png)
 
     - Contrast Theme
 
