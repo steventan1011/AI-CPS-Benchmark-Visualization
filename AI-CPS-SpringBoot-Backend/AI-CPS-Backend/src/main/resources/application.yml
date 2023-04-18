@@ -1,0 +1,46 @@
+spring:
+  profiles:
+    active: dev
+
+
+json:
+  path:
+    ACC:
+      DDPG:
+        norm: /data/jsons/ACC/ACC_eval_DDPG_result_overall.json
+        hybrid:
+          norm: /data/jsons/ACC/ACC_eval_hybrid_DDPG_result_overall.json
+          average: /data/jsons/ACC/ACC_eval_hybrid_average_DDPG_result_overall.json
+          random: /data/jsons/ACC/ACC_eval_hybrid_random_DDPG_result_overall.json
+    AFC:
+      DDPG:
+        RL: /data/jsons/AFC/AFC_eval_RL_DDPG_result_overall.json
+        hybrid: /data/jsons/AFC/AFC_eval_hybrid_DDPG_result_overall.json
+        hybrid_AI: /data/jsons/AFC/AFC_eval_hybrid_AI_DDPG_result_overall.json
+        NN_6_20: /data/jsons/AFC/AFC_eval_NN_6_20_DDPG_result_overall.json
+        NN_5_10: /data/jsons/AFC/AFC_eval_NN_5_10_DDPG_result_overall.json
+        NN_4_10: /data/jsons/AFC/AFC_eval_NN_4_10_DDPG_result_overall.json
+        NN_4_15_2: /data/jsons/AFC/AFC_eval_NN_4_15_2_DDPG_result_overall.json
+        NN_3_20: /data/jsons/AFC/AFC_eval_NN_3_20_DDPG_result_overall.json
+        NN_3_15_1: /data/jsons/AFC/AFC_eval_NN_3_15_1_DDPG_result_overall.json
+        hybrid_random: /data/jsons/AFC/AFC_eval_hybrid_random_DDPG_result_overall.json
+        hybrid_average: /data/jsons/AFC/AFC_eval_hybrid_average_DDPG_result_overall.json
+    APV:
+      DDPG: /data/jsons/APV/APV_eval_DDPG_result_overall.json
+      TD3: /data/jsons/APV/APV_eval_TD3_result_overall.json
+    CSTR: /data/jsons/CSTR/
+    DPC: /data/jsons/DPC/
+    LKA:
+      DDPG: /data/jsons/LKA/LKA_eval_DDPG_result_overall.json
+      PPO: /data/jsons/LKA/LKA_eval_PPO_result_overall.json
+      A2C: /data/jsons/LKA/LKA_eval_A2C_result_overall.json
+      SAC: /data/jsons/LKA/LKA_eval_SAC_result_overall.json
+    LR: /data/jsons/LR/
+    ML: /data/jsons/ML/
+    SC: /data/jsons/SC/
+    WT: /data/jsons/WT/
+    WTK: /data/jsons/WTK/
+
+
+server:
+  port: 8080
