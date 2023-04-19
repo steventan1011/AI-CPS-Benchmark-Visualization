@@ -1,5 +1,5 @@
 # AI-CPS-Benchmark-Visualization
-This project is an attempt to visualize AI-enabled Cyber-Physical Systems (AI-CPS) to improve transparency, accountability, and decision-making. The project provides an interactive dashboard, diagrams, and animations to visualize the behavior of AI-CPS systems.
+This is the code part of ECE 910 capstone project "An Early Attempt of Visualization for AI-enabled Cyber-Physical Systems". This project is an attempt to visualize AI-enabled Cyber-Physical Systems (AI-CPS) to improve transparency, accountability, and decision-making. The project provides an interactive dashboard, diagrams, and animations to visualize the behavior of AI-CPS systems.
 
 ## Frontend
 
