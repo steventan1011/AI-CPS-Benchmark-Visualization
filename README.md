@@ -54,7 +54,7 @@ Bellow are some demo screens for the visualization UI.
 
     ![8124ed9229d6691f36ceca0ca3dcc8e](https://raw.githubusercontent.com/steventan1011/pictures/master/img/8124ed9229d6691f36ceca0ca3dcc8e.png)
 
-- Friendly design for different usage environments: 
+- User-friendly design for different usage environments: 
 
   - Text font adjusting
 
