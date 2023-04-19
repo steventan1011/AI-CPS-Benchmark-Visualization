@@ -80,7 +80,7 @@ Bellow are some demo screens for the visualization UI.
 
       ![d4faebd1ff695a92be3d4bb49416f1a](https://raw.githubusercontent.com/steventan1011/pictures/master/img/d4faebd1ff695a92be3d4bb49416f1a.png)
 
-    - Contrast Theme
+    - High Contrast Theme
 
       ![cdd506027133a832e903a15740aa4ae](https://raw.githubusercontent.com/steventan1011/pictures/master/img/cdd506027133a832e903a15740aa4ae.png)
 
